@@ -12,11 +12,6 @@ import utils.PhoneValidator;
 
 import model.Country;
 
-/**
- * @author Gustavo Henrique Dickmann
- * gustavo.dickmann123@gmail.com
- */
-
 public class Main {
 
 	private static List<String> allCountryNumbers = new ArrayList<>();
